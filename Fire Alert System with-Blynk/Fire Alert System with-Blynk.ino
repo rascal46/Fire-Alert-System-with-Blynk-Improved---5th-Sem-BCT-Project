@@ -1,12 +1,12 @@
-#define BLYNK_TEMPLATE_ID "TMPL3Kv-j3YZ4"
-#define BLYNK_TEMPLATE_NAME "FIRE"
-#define BLYNK_AUTH_TOKEN "bi9knZdYRTra-Y6ZKAw6XxPNIDDHbZVl"
+#define BLYNK_TEMPLATE_ID "Template ID"
+#define BLYNK_TEMPLATE_NAME "Template Name"
+#define BLYNK_AUTH_TOKEN "Token"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 
-char ssid[] = "Galaxy A12 A2AA";
-char pass[] = "yapn8271";
+char ssid[] = "XXXXX";
+char pass[] = "xxxxxx";
 
 // ESP32 Fire Detection
 // GPIO 18 goes HIGH when fire is detected
