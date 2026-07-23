@@ -1,6 +1,6 @@
 # 🔥 IoT Fire Alert & Automatic Sprinkler System using ESP32 and Blynk
 
-## Demonstration Video: https://www.linkedin.com/feed/update/urn:li:activity:7484332217687629824/
+### Demonstration Video: https://www.linkedin.com/feed/update/urn:li:activity:7484332217687629824/
 
 An IoT-based Fire Alert and Automatic Sprinkler System developed using the **ESP32**, **IR Flame Sensor**, **Relay Module**, and **Blynk IoT**. The system detects the presence of fire, alerts nearby users using an LED and buzzer, automatically activates a water pump through a relay, and sends real-time notifications to a smartphone using the Blynk platform.
 
